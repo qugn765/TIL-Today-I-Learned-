@@ -25,7 +25,7 @@
 
 ## Github
 
-- [마크다운](https://github.com/qugn765/TIL-Today-I-Learned-/blob/master/Github/마크다운 정리.md)
+- [마크다운](https://github.com/qugn765/TIL-Today-I-Learned-/tree/master/Github)
 
 
 
